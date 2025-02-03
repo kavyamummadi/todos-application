@@ -26,7 +26,7 @@ function onAddTodo() {
     let userInputValue = userInputElement.value;
 
     if (userInputValue === "") {
-        alert("Enter Valid Text");
+        alert("Enter Valid Text input");
         return;
     }
 
